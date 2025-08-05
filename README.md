@@ -1,6 +1,7 @@
 # Retail-Sales-Dashboard
 Retail-Sales-Dashboard
  Description: Interactive Power BI and Excel dashboard to analyze retail sales metrics.
+
  Tags: powerbi • excel • data-analysis • dashboard • retail • portfolio-project
 
 An interactive Power BI dashboard analyzing **retail sales performance** using Excel and PowerPoint. This project helps understand key metrics like total sales, product category performance, and profit contribution using clean visualizations.
