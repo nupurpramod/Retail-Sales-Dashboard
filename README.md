@@ -52,9 +52,9 @@ An interactive Power BI dashboard analyzing **retail sales performance** using E
 
 ## Connect with Me
 
--  [LinkedIn](https://www.linkedin.com/in/nupurpramod/)
--  Email: yourname@example.com
-
+-  Email: nupurkasekar21@mail.com
+-  [LinkedIn] (https://www.linkedin.com/in/nupur-pramod)
+-  [Portfolio] (https://github.com/nupurpramod)
 ---
 
  _Feel free to fork, star, or use this dashboard as a reference for your own projects._
